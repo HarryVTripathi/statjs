@@ -1,0 +1,26 @@
+{
+  "name": "statjs",
+  "version": "1.0.0",
+  "description": "This package provides methods for simple and advanced statistical and probabilistic operations",
+  "main": "statistics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earljohannes/statjs.git"
+  },
+  "keywords": [
+    "statistics",
+    "probability"
+  ],
+  "author": "Harsh Vardhan Tripathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/earljohannes/statjs/issues"
+  },
+  "homepage": "https://github.com/earljohannes/statjs#readme",
+  "dependencies": {
+    "mathjs": "^5.4.2"
+  }
+}
